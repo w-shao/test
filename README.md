@@ -35,3 +35,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ##zhishiis test
+
+```bash
+  zishdihskld
+```
